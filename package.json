@@ -39,7 +39,19 @@
     "stats-lite": "^2.0.4",
     "tiny-promisify": "^0.1.1",
     "toml": "^2.3.0",
-    "ws": "^6.0.0"
+    "ws": "^6.0.0",
+    "axios": "^0.17.1",
+    "build": "^0.1.4",
+    "echarts": "^4.1.0",
+    "humanize-duration": "^3.14.0",
+    "moment": "^2.22.1",
+    "quasar": "^1.0.0-beta.0",
+    "vue-echarts": "^3.0.7",
+    "vue-i18n": "^7.6.0",
+    "vue-json-excel": "^0.2.5",
+    "convnetjs": "^0.3.0",
+    "mathjs": "^5.4.2",
+    "brainjs": "^0.7.4"
   },
   "devDependencies": {
     "chai": "^4.1.2",
@@ -47,10 +59,16 @@
     "proxyquire": "^1.7.10",
     "request": "^2.83.0",
     "request-promise": "^4.2.2",
-    "sinon": "^4.2.0"
+    "sinon": "^4.2.0",
+    "jade": "^1.11.0",
+    "marked": "^0.3.19",
+    "quasar-cli": "^0.15.14",
+    "superagent": "^3.8.3",
+    "superagent-no-cache": "^0.1.1"
   },
   "engines": {
-    "node": ">=8.11.2"
+    "node": ">=8.11.2",
+    "npm": ">= 5.6.0"
   },
   "license": "MIT",
   "repository": {
